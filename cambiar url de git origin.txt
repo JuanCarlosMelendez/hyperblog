@@ -1,0 +1,3 @@
+**** Cambiar url de git origin** si le pones origin cambia el de fetch y el push
+comando 
+git remote set-url origin
