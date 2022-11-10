@@ -1,0 +1,32 @@
+**TRAERME PROYECTOS YA CREADOS PARA TRABAJAR EN ELLOS**
+NOTA: 
+* Creemos un nuevo proyecto en mi capeta con los comandos siguientes:
+nos vamos a la direccion donde deseamos crear carpeta:
+
+mkdir proyectogit1(nombre que desees)
+
+para ir a la carpeta hacemos 
+
+cd proyectogit1
+
+CLONAR UN REPOSITORIO DESDE GITHUB
+
+1. git clone urldelgithubrepositorio
+
+Basicamente el flujo de trabajo seria como:
+
+Crear ramas
+Asignar una rama a cada programador
+El programador baja el repositorio con git pull origin master
+El programador cambia de rama
+El programador trabaja en esa rama y hace commits
+El programador sube su trabajo con git push origin #nombre_rama
+El jefe baja y unifica todos los cambios
+
+hacer Push:
+git push origin footer(nunca al master porfa)
+git pull origin footer (o la rama que te toque)
+
+**HACER UN MERGE**
+
+git merge 
